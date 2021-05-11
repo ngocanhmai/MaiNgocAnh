@@ -15,6 +15,7 @@
         echo "<h3>Dòng thứ" . $i . "</h3>";
     }
     ?>
+<h1>Hello</h1>
 
 </body>
 
